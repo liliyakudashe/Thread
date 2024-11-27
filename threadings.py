@@ -105,3 +105,4 @@ if __name__ == "__main__":
 
     log_to_file(f"Программа завершена за {end_time - start_time:.2f} секунд.")
     print(f"\nПрограмма завершена за {end_time - start_time:.2f} секунд.")
+
